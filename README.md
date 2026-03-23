@@ -46,9 +46,9 @@ npm start
 *   Biểu đồ rủi ro thời gian thực (Real-time Risk Area Chart).
 *   Thống kê vận tốc di chuyển và cảnh báo vùng nguy hiểm.
 *   Lưu trữ và xem lại các khung hình (frames) có dấu hiệu rủi ro cao.
-<img width="1592" height="760" alt="image" src="https://github.com/user-attachments/assets/62a4fad3-5ab6-4040-8ce5-61a4a558f982" />
+<img width="1566" height="738" alt="image" src="https://github.com/user-attachments/assets/beebe35a-8cd2-4dfe-b2cd-ba775770a7db" />
 
-<img width="1592" height="733" alt="image" src="https://github.com/user-attachments/assets/7e0f05a3-0bc5-4442-b31d-543964d9314b" />
+<img width="1571" height="747" alt="image" src="https://github.com/user-attachments/assets/5bfd30df-df0a-4943-8607-553751db51d2" />
 
 ---
 © 2024 HUTECH Safety AI Project
