@@ -1,0 +1,39 @@
+# Python byte-compiled
+__pycache__/
+*.py[cod]
+
+# Environments
+backend/venv/
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large Model Weights (DO NOT PUSH TO GITHUB)
+backend/video_api/weights/*.pt
+backend/video_api/weights/*.pth
+
+# Frontend dependencies
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# Temp files & Outputs
+backend/temp_video.mp4
+backend/backend/output_danger/
+backend/output_danger/
+*.log
+
+# Editor folders
+.vscode/
+.idea/
+.DS_Store
+
+# Random Files
+*.rar
+serviceAccountKey.json
+*.zip
+*.7z
+tmp/
+video_api/weights/
