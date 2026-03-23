@@ -1,6 +1,5 @@
-# 🛡️ HUTECH Safety AI - Hệ thống Giám sát & Phòng ngừa Tự tử bằng Trí tuệ Nhân tạo
-
-Hệ thống AI giám sát thời gian thực giúp phát hiện sớm các hành vi rủi ro (tự tử) thông qua phân tích video. Dự án kết hợp các mô hình Deep Learning tiên tiến nhất hiện nay để đưa ra cảnh báo chính xác.
+# 🛡️ HUTECH Safety AI - Hệ thống Giám sát & Phòng ngừa té ngã
+Hệ thống AI giám sát thời gian thực giúp phát hiện sớm các hành vi rủi ro thông qua phân tích video. Dự án kết hợp các mô hình Deep Learning tiên tiến nhất hiện nay để đưa ra cảnh báo chính xác.
 
 ## 🚀 Quy trình Xử lý (Flowchart)
 Hệ thống hoạt động theo trình tự chuyên sâu:
