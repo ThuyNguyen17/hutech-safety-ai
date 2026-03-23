@@ -47,6 +47,7 @@ npm start
 *   Thống kê vận tốc di chuyển và cảnh báo vùng nguy hiểm.
 *   Lưu trữ và xem lại các khung hình (frames) có dấu hiệu rủi ro cao.
 <img width="1592" height="760" alt="image" src="https://github.com/user-attachments/assets/62a4fad3-5ab6-4040-8ce5-61a4a558f982" />
+
 <img width="1592" height="733" alt="image" src="https://github.com/user-attachments/assets/7e0f05a3-0bc5-4442-b31d-543964d9314b" />
 
 ---
